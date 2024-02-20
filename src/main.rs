@@ -1,5 +1,7 @@
 use std::io::{stdin, stdout, Write};
 
+use std::io::{stdin, stdout, Write};
+
 fn main() {
     // use `loop` for infinite loop instead of while true
     loop {
